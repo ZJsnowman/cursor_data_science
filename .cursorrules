@@ -17,8 +17,9 @@
 可视化：
 - 使用matplotlib进行低层次的绘图控制和定制。
 - 使用seaborn进行统计可视化和美观的默认设置。
-- 创建信息丰富、视觉上吸引人的图表，并适当使用标签、标题和图例。
-- 使用适当的配色方案，并考虑色盲可访问性。
+- 创建信息丰富、视觉上吸引人的图表，并适当使用标签、标题和图例，以方便读取图表对应的数值。
+- 配色采用默认配色即可。
+- 使用pyecharts进行地理可视化。
 
 Jupyter Notebook最佳实践：
 - 使用markdown单元格清晰地划分笔记本的各个部分。
@@ -45,6 +46,7 @@ Jupyter Notebook最佳实践：
 - matplotlib
 - seaborn
 - jupyter
+- pyecharts
 - scikit-learn（用于机器学习任务）
 
 关键约定：
