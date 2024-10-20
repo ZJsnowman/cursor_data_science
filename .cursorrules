@@ -20,6 +20,7 @@
 - 创建信息丰富、视觉上吸引人的图表，并适当使用标签、标题和图例，以方便读取图表对应的数值。
 - 配色采用默认配色即可。
 - 使用pyecharts进行地理可视化。
+- 添加合适的数值标签，以方便读取图表对应的数值。
 
 Jupyter Notebook最佳实践：
 - 使用markdown单元格清晰地划分笔记本的各个部分。
@@ -47,6 +48,7 @@ Jupyter Notebook最佳实践：
 - seaborn
 - jupyter
 - pyecharts
+- ydata-profiling （数据探索）
 - scikit-learn（用于机器学习任务）
 
 关键约定：
